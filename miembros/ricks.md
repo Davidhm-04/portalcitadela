@@ -1,0 +1,1 @@
+registrado rick 1
