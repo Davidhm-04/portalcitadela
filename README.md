@@ -9,4 +9,4 @@ Mini web para practicar Git.
 
 La coordenada de salto C-137-42 indica el destino del portal.
 
-**Autor:** Rick C-137
+**Autor:** Rick C-137Instrucciones de uso.
